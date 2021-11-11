@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Manhar Khurana](https://user-images.githubusercontent.com/72623458/141213030-9163a242-d129-4c68-9a91-95d382c36b0b.png)
 <!--
 **khurananmanhar/khurananmanhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
